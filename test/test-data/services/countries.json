@@ -1,0 +1,22 @@
+{
+  "USA": {
+    "name": "United States",
+    "code": "USA"
+  },
+  "CAN": {
+    "name": "Canada",
+    "code": "CAN"
+  },
+  "GBR": {
+    "name": "United Kingdom",
+    "code": "GBR"
+  },
+  "DEU": {
+    "name": "Germany",
+    "code": "DEU"
+  },
+  "FRA": {
+    "name": "France",
+    "code": "FRA"
+  }
+}

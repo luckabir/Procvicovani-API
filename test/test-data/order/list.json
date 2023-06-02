@@ -1,0 +1,20 @@
+[
+  {
+    "customer": {
+      "firstname": "John",
+      "lastname": "Doe"
+    },
+    "customer_reference": "3d783d24-2b25-4d5d-a472-38b5bf2f53c1",
+    "card": 1234,
+    "shippingOptions": 1
+  },
+  {
+    "customer": {
+      "firstname": "Jane",
+      "lastname": "Smith"
+    },
+    "customer_reference": "c7364d4a-08f1-4631-8e7a-bf4d4fc7a58f",
+    "card": 5678,
+    "shippingOptions": 2
+  }
+]

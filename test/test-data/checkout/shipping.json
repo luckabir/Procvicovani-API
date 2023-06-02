@@ -1,0 +1,44 @@
+{
+  "chkt_ABCDEFG123456": {
+    "shipping_options": [
+      {
+        "id": "shipopt_123456",
+        "description": "Standard Shipping",
+        "price": {
+          "raw": 500,
+          "formatted": "$5.00",
+          "formatted_with_symbol": "$5.00"
+        }
+      },
+      {
+        "id": "shipopt_654321",
+        "description": "Express Shipping",
+        "price": {
+          "raw": 1000,
+          "formatted": "$10.00",
+          "formatted_with_symbol": "$10.00"
+        }
+      }
+    ],
+    "selected_shipping_option": {
+      "id": "shipopt_123456",
+      "description": "Standard Shipping",
+      "price": {
+        "raw": 500,
+        "formatted": "$5.00",
+        "formatted_with_symbol": "$5.00"
+      }
+    },
+    "subtotal": {
+      "raw": 2000,
+      "formatted": "$20.00",
+      "formatted_with_symbol": "$20.00"
+    },
+    "total": {
+      "raw": 2500,
+      "formatted": "$25.00",
+      "formatted_with_symbol": "$25.00"
+    },
+    "currency": "USD"
+  }
+}

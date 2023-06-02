@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Electronics",
+    "permalink": "https://example.com/categories/electronics",
+    "description": "Find the latest electronics from top brands at affordable prices.",
+    "HTML": "<h2>Electronics</h2><p>Find the latest electronics from top brands at affordable prices.</p>",
+    "image": "https://example.com/images/electronics.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Clothing",
+    "permalink": "https://example.com/categories/clothing",
+    "description": "Get the latest fashion trends at great prices, from casual wear to formal attire.",
+    "HTML": "<h2>Clothing</h2><p>Get the latest fashion trends at great prices, from casual wear to formal attire.</p>",
+    "image": "https://example.com/images/clothing.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Produce",
+    "permalink": "https://example.com/categories/produce",
+    "description": "Fresh fruits and vegetables picked daily from local farms.",
+    "HTML": "<h2>Produce</h2><p>Fresh fruits and vegetables picked daily from local farms.</p>",
+    "image": "https://example.com/images/produce.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Organic",
+    "permalink": "https://example.com/categories/organic",
+    "description": "Organic products that are free of pesticides and chemicals.",
+    "HTML": "<h2>Organic</h2><p>Organic products that are free of pesticides and chemicals.</p>",
+    "image": "https://example.com/images/organic.jpg"
+  }
+]

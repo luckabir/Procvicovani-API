@@ -1,0 +1,72 @@
+{
+  "USA": [
+    {
+      "name": "Alabama",
+      "code": "AL"
+    },
+    {
+      "name": "Alaska",
+      "code": "AK"
+    },
+    {
+      "name": "Arizona",
+      "code": "AZ"
+    }
+  ],
+  "CAN": [
+    {
+      "name": "Alberta",
+      "code": "AB"
+    },
+    {
+      "name": "British Columbia",
+      "code": "BC"
+    },
+    {
+      "name": "Ontario",
+      "code": "ON"
+    }
+  ],
+  "GBR": [
+    {
+      "name": "England",
+      "code": "ENG"
+    },
+    {
+      "name": "Scotland",
+      "code": "SCO"
+    },
+    {
+      "name": "Wales",
+      "code": "WAL"
+    }
+  ],
+  "DEU": [
+    {
+      "name": "Bavaria",
+      "code": "BY"
+    },
+    {
+      "name": "Berlin",
+      "code": "BE"
+    },
+    {
+      "name": "North Rhine-Westphalia",
+      "code": "NW"
+    }
+  ],
+  "FRA": [
+    {
+      "name": "Île-de-France",
+      "code": "IDF"
+    },
+    {
+      "name": "Provence-Alpes-Côte d'Azur",
+      "code": "PAC"
+    },
+    {
+      "name": "Auvergne-Rhône-Alpes",
+      "code": "ARA"
+    }
+  ]
+}

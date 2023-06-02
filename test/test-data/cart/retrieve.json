@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "total_items": 3,
+    "line_items": [
+      {
+        "name": "T-Shirt",
+        "quantity": 2,
+        "cart.subtotal.formatted_with_symbol": "$30.00",
+        "cart.linetotal.formatted_with_symbol": "$20.00"
+      },
+      {
+        "name": "Sneakers",
+        "quantity": 1,
+        "cart.subtotal.formatted_with_symbol": "$70.00",
+        "cart.linetotal.formatted_with_symbol": "$70.00"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "total_items": 1,
+    "line_items": [
+      {
+        "name": "Smartphone",
+        "quantity": 1,
+        "cart.subtotal.formatted_with_symbol": "$800.00",
+        "cart.linetotal.formatted_with_symbol": "$800.00"
+      }
+    ]
+  }
+]
